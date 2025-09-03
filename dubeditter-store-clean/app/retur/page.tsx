@@ -1,0 +1,1 @@
+export default function Page() { return (<div className="max-w-3xl mx-auto p-6"><h1 className="text-3xl font-bold mb-2">Retur</h1><p>30 dagers åpent kjøp. Kontakt <a className="underline" href="mailto:retur@dubeditter.no">retur@dubeditter.no</a>.</p></div>); }
